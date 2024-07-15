@@ -27,7 +27,7 @@ This project aims to replicate the front-end interface of Flipkart.com, showcasi
 
 ## Screenshots
 
-I## Screenshots
+ Screenshots
 
 ![Navbar](screenshot/CLONEFLIPKART.jpeg)
 *Screenshot of the  clone of flipkart.com.*
